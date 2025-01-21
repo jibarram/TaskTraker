@@ -1,4 +1,4 @@
-(#)Task Tracker
+(#) Task Tracker
 
 Sample solution for the https://roadmap.sh/projects/task-tracker challenge from roadmap.sh.
 
