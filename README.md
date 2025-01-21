@@ -1,4 +1,4 @@
-Task Tracker
+#Task Tracker
 Sample solution for the https://roadmap.sh/projects/task-tracker challenge from roadmap.sh.
 
 How to Run
@@ -68,7 +68,9 @@ node task-cli.js list in-progress
 Features
 
 Add, update, delete tasks: Manage tasks efficiently with basic CRUD operations.
+
 Mark tasks by status: Update tasks as "in-progress," "done," or "todo."
+
 List tasks: View all tasks or filter them by status.
 
 Notes
