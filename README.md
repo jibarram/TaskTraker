@@ -4,11 +4,9 @@ Sample solution for the https://roadmap.sh/projects/task-tracker challenge from 
 How to Run
 Clone the repository and run the following commands:
 
-bash
-Copiar
-Editar
-git clone https://github.com/jibarram/TaskTraker.git
-cd TaskTracker
+
+<code>git clone https://github.com/jibarram/TaskTraker.git
+cd TaskTracker</code>
 Make sure you have Node.js installed on your system. You can verify by running:
 
 bash
