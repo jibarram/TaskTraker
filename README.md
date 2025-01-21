@@ -66,10 +66,15 @@ node task-cli.js list todo
 node task-cli.js list in-progress
 ```
 Features
+
 Add, update, delete tasks: Manage tasks efficiently with basic CRUD operations.
 Mark tasks by status: Update tasks as "in-progress," "done," or "todo."
 List tasks: View all tasks or filter them by status.
+
 Notes
+
 Tasks are stored in a tasks.json file in the current directory.
+
 The application ensures the tasks.json file is created automatically if it does not exist.
+
 Feel free to customize the project and expand its features!
